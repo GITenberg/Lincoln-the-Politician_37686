@@ -1,0 +1,26 @@
+_repo: Lincoln-the-Politician_37686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levy, T. Aaron
+    birthdate: 1874
+    gutenberg_agent_id: '38992'
+    url: http://www.gutenberg.org/2009/agents/38992
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37686'
+  lccn: '18011069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+title: Lincoln, the Politician
+url: http://www.gutenberg.org/ebooks/37686
